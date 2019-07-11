@@ -1,0 +1,24 @@
+Cindy's progress so far:
+
+We've been following along with the text book, building as quickly as we can (while still retaining information) towards utilizing the MIDO package for MIDI processing. This package (viewable here: https://github.com/mido/mido) allows the fairly intuitive manipulation of MIDI data, and I built an implementation to translate Selena Gomez's 'Wolves' (as discussed in the first session) that does just that, at least to a first degree of approximation (viewable here: https://github.com/mgbvox/cindy_s/blob/master/MIDO_Intro.ipynb).
+
+Classes loosely follow the order of topics in Python: A Crash Course (http://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/No.Starch.Python.Oct_.2015.ISBN_.1593276036.pdf).
+
+Sessions are divided into two segments: first, we go over the prior night's homework, discuss the solutions to each, and talk about how Cindy's implementations can be debugged or improved. Next, we build on that topic, segueing into the topics addressed in the next chapter. At all times we focus on the applicability of each topic towards music and music processing - however, in situations where a topic needs to be addressed in more detail (this happened in the section on Dictionaries, for example), periodically we digress into more abstract applications/theory.
+
+Homeworks 1 and 2 focused on a brief overview of chapters 0-6. This covered variables, lists, and dictionaries, as well as basic loops and if/then statements. 
+Homework 1: https://github.com/mgbvox/cindy_s/blob/master/homework/homework_1.ipynb
+Homework 2: https://github.com/mgbvox/cindy_s/blob/master/homework/homework_2.ipynb
+
+Homework 3 focused on chapter 7 - user input and interactivity.
+Homework 3: https://github.com/mgbvox/cindy_s/blob/master/homework/homework_3.ipynb
+
+Broad overview:
+
+Session 1: No Homework - Intros + Discussion of Theme
+Session 2: Began work on the basics of python data structures. Homework 1 assigned.
+Session 3: Reviewed Homework 1. Not much had been done; went through the core concepts again. Continued work on Homework 1.
+Session 4: Finished Homweork 1. Introduced Dictionaries and explained their usefulness for MIDI translation. Covered iteration through dictionaries using for loops.
+Session 5:Reviewed Homework 2. Started work on user-input and interactivity; briefly touched on writing/reading files.
+Session 6: Reviewed Homework 3. Discussed Modulo and it's utility for music translation (cyclical lettering for notes).
+Session 7: No Homework - reviewed chapter 7 homework, discussed chapter 8 (definitions of functions and code modularity). Paused future sessions until August.
